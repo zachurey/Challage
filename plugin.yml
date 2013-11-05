@@ -1,0 +1,5 @@
+name: Challenge
+version: 1.0
+main: me.zach.challage.Enable
+commands:
+    startch:
